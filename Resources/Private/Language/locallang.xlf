@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" product-name="wondrous_torso" date="2016-10-03T11:05:36+00:00">
+		<header/>
+		<body>
+			<trans-unit id="flux.torso">
+				<source>Torso Element</source>
+			</trans-unit>
+			<trans-unit id="flux.standard.description">
+				<source>Torso Element</source>
+			</trans-unit>
+			<trans-unit id="flux.example">
+				<source>Torso Element</source>
+			</trans-unit>
+			<trans-unit id="flux.example.description">
+				<source>Torso Element</source>
+			</trans-unit>
+			<trans-unit id="flux.example.fields.settings.helloWorld">
+				<source>Torso Element</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

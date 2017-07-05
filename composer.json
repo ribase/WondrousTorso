@@ -1,0 +1,20 @@
+{
+  "name": "ribase/wondroustorso",
+  "type": "typo3-cms-extension",
+  "description": "todo",
+  "license": ["GPL-2.0+"],
+  "keywords": ["TYPO3 CMS", "wondroustorso"],
+  "support": {
+    "issues": "https://github.com/ribase/WondrousTorso"
+  },
+  "require": {
+    "typo3-ter/fluidcontent" : "~4.4.1",
+    "typo3-ter/flux" : "~7.4.0",
+    "typo3-ter/vhs" : "~2.4.0"
+  },
+  "version": "1.0.1",
+  "replace": {
+    "wondrous_torso": "*"
+  }
+}
+
